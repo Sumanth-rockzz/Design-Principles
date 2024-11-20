@@ -48,3 +48,8 @@ console.log(`${folder1.getName()} Folder has Size ${folder1.children.reduce((sum
 console.log(`${folder1.getName()} Folder has following Files `,folder1.listFiles())
 
 
+// Use Case
+// Simplifies operations on composite structures.
+// Promotes consistency in handling individual objects and compositions.
+
+
