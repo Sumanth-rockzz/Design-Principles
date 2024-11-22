@@ -52,4 +52,10 @@ class Pizza {
   
   console.log(pizza);
   // Pizza { toppings: [ 'cheese', 'pepperoni' ], crust: 'thin', size: 'large' }
+
+
+  //Use Case
+
+// Provides control over the object creation process.
+// Enables constructing objects with complex configurations.
   
